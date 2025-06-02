@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Tania
 
 <!--
 **ValeraTania/ValeraTania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a junior **Front-End Developer** passionate about building responsive and accessible web interfaces. I enjoy creating user-friendly experiences using **React**, **JavaScript**, and **CSS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🎬 [PopFlix](https://github.com/ValeraTania/Popflix.git) — React app to search and view movie and tv shows info.
+
+## 🛠️ Tech Stack
+- React · JavaScript · CSS · HTML · Git · Figma 
+
+## 🌱 Currently learning
+- TypeScript · TailwindCSS · Unit Testing · Redux · Responsive Design Best Practices
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/valeratania/)
+- [Portfolio] *(coming soon)*
+
